@@ -9,7 +9,7 @@ FSR 2.x supports DirectX 12 and Vulkan. GTA 5 uses DirectX 11/10
 ## Original upscaler VS FidelityFx Super Resolution:
 [![youtube](http://img.youtube.com/vi/yN3tfoUUyos/0.jpg)](http://www.youtube.com/watch?v=yN3tfoUUyos "Original upscaler vs FidelifyFx Super Resolution")
 
-### Screenshots:
+### Screenshots:gta5_fsr/gta5_fsr.vcxproj
 1. [Original upscale VS FSR upscale](https://imgsli.com/NjAzMTI)
 2. [Native VS FSR #1](https://imgsli.com/NjAyODk)
 3. [Native VS FSR #2](https://imgsli.com/NjAyOTA)
